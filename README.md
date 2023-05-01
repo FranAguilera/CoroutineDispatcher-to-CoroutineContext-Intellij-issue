@@ -7,7 +7,7 @@ See below the error shown on Intellij (in this case `Android Studio Electric Eel
 
 `app/src/main/java/com/example/dispatchersclasscastdemo/MainActivity.java`
 
-<img width="906" alt="image" src="https://user-images.githubusercontent.com/4230063/235540760-bbe69f5f-ffe4-4783-8d46-872a4daf1223.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/4230063/235542014-4a0f4f98-1bcd-40b9-8249-6758449a56cd.png">
 
 Compile succeeds without issues
 
