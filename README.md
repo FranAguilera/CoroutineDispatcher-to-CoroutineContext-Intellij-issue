@@ -1,4 +1,5 @@
-# CoroutineDispatcher-to-CoroutineContext-Intellij-issue
+# CoroutineDispatcher-to-CoroutineContext-Intellij-issue https://youtrack.jetbrains.com/issue/KTIJ-25432/Incorrect-cast-error-shown-for-CoroutineDispatchers-to-CoroutineContext-in-java-files
+
 This small sample Android app shows Intellij issue showing cast error in Java files for CoroutineDispatcher to CoroutineContext. This shouldn't be the case giving that a CoroutineContext is always a CoroutineDispatcher.
 
 `CoroutineDispatcher -> AbstractCoroutineContextElement -> CoroutineContext.Element -> CoroutineContext`
